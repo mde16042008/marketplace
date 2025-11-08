@@ -5,15 +5,15 @@
 			"name":"Daniel",
 			"surname":"Matveev",
 			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
-			"balance":7500,
-		}
+			"balance":7500
+		},
 		{
 			"id":2,
 			"name":"Andrian",
 			"surname":"Popescu",
 			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
-			"balance":2500,
-		}
+			"balance":2500
+		},
 		{
 			"id":3,
 			"name":"Iaroslav",
