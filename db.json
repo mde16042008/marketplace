@@ -1,0 +1,108 @@
+{
+	"users":[
+		{
+			"id":1,
+			"name":"Daniel",
+			"surname":"Matveev",
+			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
+			"balance":7500,
+		}
+		{
+			"id":2,
+			"name":"Andrian",
+			"surname":"Popescu",
+			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
+			"balance":2500,
+		}
+		{
+			"id":3,
+			"name":"Iaroslav",
+			"surname":"Rimar",
+			"photo_url":"https://cdn-icons-png.flaticon.com/512/4042/4042356.png",
+			"balance":1800
+		}
+	],
+	"products":[
+		{
+			"id": 1,
+			"name": "Chișinău de seară",
+			"description": "Ciocolată cu prune, gust rafinat și echilibrat.",
+			"price": 150,
+			"author_id": 1,
+			"photo_url": "https://magazinbucuria.ro/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/bomboane-bucuria-chisinaul-de-seara-mb00008-1.png"
+		},
+		{
+			"id": 2,
+			"name": "Serenada",
+			"description": "Bomboane umplute cu cremă fină de lapte și alune.",
+			"price": 120,
+			"author_id": 3,
+			"photo_url": "https://magazinbucuria.ro/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/cutie-bomboane-bucuria-asortate-bucuresti-850-gr-mb00352.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Grilias",
+			"description": "Bomboane crocante cu alune caramelizate și cremă de cacao.",
+			"price": 130,
+			"author_id": 2,
+			"photo_url": "https://magazinbucuria.ro/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/bomboane-bucuria-griliaj-mb00006-1.png"
+		},
+		{
+			"id": 4,
+			"name": "Leovit",
+			"description": "Ciocolată fină umplută cu cremă de lapte și vanilie.",
+			"price": 110,
+			"author_id": 3,
+			"photo_url": "https://magazinbucuria.ro/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/punga-bucuria-livada-moldovei-regale-250gr-mb00364.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Cocos",
+			"description": "Bomboane delicioase cu fulgi de cocos și cremă albă.",
+			"price": 140,
+			"author_id": 3,
+			"photo_url": "https://magazinbucuria.ro/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/bomboane-bucuria-cu-cocos-clepsidra-mb00020-1.png"
+		},
+		{
+			"id": 6,
+			"name": "Moldova",
+			"description": "Bomboane tradiționale cu cremă fină și glazură de ciocolată.",
+			"price": 145,
+			"author_id": 2,
+			"photo_url": "https://magazinbucuria.ro/media/catalog/product/cache/c68e9bbb2d73eded5f4972f8e568886c/bomboane-bucuria-moldova-mb00015-1.png"
+		},
+		{
+			"id": 7,
+			"name": "Vis",
+			"description": "Bomboane cu cremă fină de vanilie și ciocolată albă.",
+			"price": 125,
+			"author_id": 1,
+			"photo_url": "https://vladalina.md/cron/images/1180203443.png"
+		},
+		{
+			"id": 8,
+			"name": "Nougat",
+			"description": "Bomboane cu cremă densă de nuga și bucăți de alune.",
+			"price": 135,
+			"author_id": 2,
+			"photo_url": "https://linella.md/public/products/4066b7dc63d8f224f6da396e9405289b.webp"
+		},
+		{
+			"id": 9,
+			"name": "Amor",
+			"description": "Bomboane cu cremă de lapte și inimioară de ciocolată.",
+			"price": 150,
+			"author_id": 1,
+			"photo_url": "https://m.media-amazon.com/images/I/71pMqTYNJdL._AC_UF894,1000_QL80_.jpg"
+		},
+		{
+			"id": 10,
+			"name": "Romantica",
+			"description": "Bomboane cu cremă fină de cacao și lapte condensat.",
+			"price": 155,
+			"author_id": 3,
+			"photo_url": "https://greektaste.ro/wp-content/uploads/2022/02/inima-praline-cioco-alba-1_.jpg"
+		}
+	]	
+
+}
